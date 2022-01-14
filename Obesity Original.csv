@@ -1,0 +1,257 @@
+Year,Gender,State,Age,Percentage
+2011,Women,MALAYSIA,18-24,10.7
+2011,Women,MALAYSIA,25-44,18.6
+2011,Women,MALAYSIA,45-64,22.3
+2011,Women,MALAYSIA,65+,13.1
+2015,Women,MALAYSIA,18-24,12.3
+2015,Women,MALAYSIA,25-44,22.3
+2015,Women,MALAYSIA,45-64,24.5
+2015,Women,MALAYSIA,65+,17.3
+2011,Women,Johor,18-24,11.2
+2011,Women,Johor,25-44,18.3
+2011,Women,Johor,45-64,23.4
+2011,Women,Johor,65+,11.3
+2015,Women,Johor,18-24,15.2
+2015,Women,Johor,25-44,21.9
+2015,Women,Johor,45-64,23.5
+2015,Women,Johor,65+,18
+2011,Women,Kedah,18-24,18.3
+2011,Women,Kedah,25-44,20.7
+2011,Women,Kedah,45-64,25.3
+2011,Women,Kedah,65+,12.4
+2015,Women,Kedah,18-24,9.3
+2015,Women,Kedah,25-44,32.5
+2015,Women,Kedah,45-64,23.7
+2015,Women,Kedah,65+,13.4
+2011,Women,Kelantan,18-24,11.8
+2011,Women,Kelantan,25-44,21.7
+2011,Women,Kelantan,45-64,23
+2011,Women,Kelantan,65+,11
+2015,Women,Kelantan,18-24,14.7
+2015,Women,Kelantan,25-44,28.4
+2015,Women,Kelantan,45-64,26.4
+2015,Women,Kelantan,65+,12.6
+2011,Women,Melaka,18-24,5.4
+2011,Women,Melaka,25-44,17.6
+2011,Women,Melaka,45-64,24.9
+2011,Women,Melaka,65+,20.6
+2015,Women,Melaka,18-24,21.9
+2015,Women,Melaka,25-44,25.8
+2015,Women,Melaka,45-64,34
+2015,Women,Melaka,65+,12.3
+2011,Women,Negeri Sembilan,18-24,9.5
+2011,Women,Negeri Sembilan,25-44,15.8
+2011,Women,Negeri Sembilan,45-64,28.6
+2011,Women,Negeri Sembilan,65+,8.5
+2015,Women,Negeri Sembilan,18-24,14.4
+2015,Women,Negeri Sembilan,25-44,29.3
+2015,Women,Negeri Sembilan,45-64,29.8
+2015,Women,Negeri Sembilan,65+,21.8
+2011,Women,Pahang,18-24,15.3
+2011,Women,Pahang,25-44,22.8
+2011,Women,Pahang,45-64,20.8
+2011,Women,Pahang,65+,9.6
+2015,Women,Pahang,18-24,18.8
+2015,Women,Pahang,25-44,23.2
+2015,Women,Pahang,45-64,29.8
+2015,Women,Pahang,65+,21.5
+2011,Women,Perak,18-24,8.7
+2011,Women,Perak,25-44,24.8
+2011,Women,Perak,45-64,20
+2011,Women,Perak,65+,9.9
+2015,Women,Perak,18-24,7.8
+2015,Women,Perak,25-44,18
+2015,Women,Perak,45-64,31.2
+2015,Women,Perak,65+,20.5
+2011,Women,Perlis,18-24,18.7
+2011,Women,Perlis,25-44,32.7
+2011,Women,Perlis,45-64,31.9
+2011,Women,Perlis,65+,8.3
+2015,Women,Perlis,18-24,32.1
+2015,Women,Perlis,25-44,27.7
+2015,Women,Perlis,45-64,23.9
+2015,Women,Perlis,65+,12.3
+2011,Women,Pulau Pinang,18-24,4
+2011,Women,Pulau Pinang,25-44,11.9
+2011,Women,Pulau Pinang,45-64,22
+2011,Women,Pulau Pinang,65+,13.6
+2015,Women,Pulau Pinang,18-24,0.7
+2015,Women,Pulau Pinang,25-44,15.3
+2015,Women,Pulau Pinang,45-64,19.3
+2015,Women,Pulau Pinang,65+,16.8
+2011,Women,Sabah,18-24,7.2
+2011,Women,Sabah,25-44,15
+2011,Women,Sabah,45-64,16.4
+2011,Women,Sabah,65+,8.1
+2015,Women,Sabah,18-24,5.5
+2015,Women,Sabah,25-44,20
+2015,Women,Sabah,45-64,18.2
+2015,Women,Sabah,65+,13.3
+2011,Women,Sarawak,18-24,8.3
+2011,Women,Sarawak,25-44,18.4
+2011,Women,Sarawak,45-64,15.9
+2011,Women,Sarawak,65+,13.8
+2015,Women,Sarawak,18-24,14.1
+2015,Women,Sarawak,25-44,25.9
+2015,Women,Sarawak,45-64,25
+2015,Women,Sarawak,65+,7.1
+2011,Women,Selangor,18-24,13.8
+2011,Women,Selangor,25-44,18.9
+2011,Women,Selangor,45-64,26
+2011,Women,Selangor,65+,19.2
+2015,Women,Selangor,18-24,16.5
+2015,Women,Selangor,25-44,22.5
+2015,Women,Selangor,45-64,20.6
+2015,Women,Selangor,65+,23.9
+2011,Women,Terengganu,18-24,14.8
+2011,Women,Terengganu,25-44,17.6
+2011,Women,Terengganu,45-64,23.6
+2011,Women,Terengganu,65+,8
+2015,Women,Terengganu,18-24,11.9
+2015,Women,Terengganu,25-44,26.7
+2015,Women,Terengganu,45-64,28.3
+2015,Women,Terengganu,65+,23.1
+2011,Women,W.P. Kuala Lumpur,18-24,6.5
+2011,Women,W.P. Kuala Lumpur,25-44,18.8
+2011,Women,W.P. Kuala Lumpur,45-64,18.4
+2011,Women,W.P. Kuala Lumpur,65+,18.3
+2015,Women,W.P. Kuala Lumpur,18-24,9.5
+2015,Women,W.P. Kuala Lumpur,25-44,13.5
+2015,Women,W.P. Kuala Lumpur,45-64,26.3
+2015,Women,W.P. Kuala Lumpur,65+,19
+2011,Women,W.P. Putrajaya,18-24,9.1
+2011,Women,W.P. Putrajaya,25-44,12.3
+2011,Women,W.P. Putrajaya,45-64,43.7
+2011,Women,W.P. Putrajaya,65+,16.2
+2015,Women,W.P. Putrajaya,18-24,22.2
+2015,Women,W.P. Putrajaya,25-44,27.1
+2015,Women,W.P. Putrajaya,45-64,27.9
+2015,Women,W.P. Putrajaya,65+,0
+2011,Men,MALAYSIA,18-24,10.6
+2011,Men,MALAYSIA,25-44,14
+2011,Men,MALAYSIA,45-64,13.5
+2011,Men,MALAYSIA,65+,6.5
+2015,Men,MALAYSIA,18-24,11.7
+2015,Men,MALAYSIA,25-44,16.3
+2015,Men,MALAYSIA,45-64,16.8
+2015,Men,MALAYSIA,65+,8.1
+2011,Men,Johor,18-24,10.1
+2011,Men,Johor,25-44,15.1
+2011,Men,Johor,45-64,16.7
+2011,Men,Johor,65+,8.8
+2015,Men,Johor,18-24,10.5
+2015,Men,Johor,25-44,17.1
+2015,Men,Johor,45-64,17.9
+2015,Men,Johor,65+,12
+2011,Men,Kedah,18-24,2.8
+2011,Men,Kedah,25-44,14.5
+2011,Men,Kedah,45-64,8.5
+2011,Men,Kedah,65+,5.1
+2015,Men,Kedah,18-24,17
+2015,Men,Kedah,25-44,19.2
+2015,Men,Kedah,45-64,16.6
+2015,Men,Kedah,65+,13.8
+2011,Men,Kelantan,18-24,12
+2011,Men,Kelantan,25-44,13.4
+2011,Men,Kelantan,45-64,15.5
+2011,Men,Kelantan,65+,3.4
+2015,Men,Kelantan,18-24,6.8
+2015,Men,Kelantan,25-44,10.3
+2015,Men,Kelantan,45-64,12.9
+2015,Men,Kelantan,65+,3.8
+2011,Men,Melaka,18-24,22.8
+2011,Men,Melaka,25-44,17.5
+2011,Men,Melaka,45-64,15.5
+2011,Men,Melaka,65+,14.7
+2015,Men,Melaka,18-24,25.8
+2015,Men,Melaka,25-44,19.7
+2015,Men,Melaka,45-64,11.7
+2015,Men,Melaka,65+,6.7
+2011,Men,Negeri Sembilan,18-24,14.6
+2011,Men,Negeri Sembilan,25-44,14.5
+2011,Men,Negeri Sembilan,45-64,12.6
+2011,Men,Negeri Sembilan,65+,15.1
+2015,Men,Negeri Sembilan,18-24,13.1
+2015,Men,Negeri Sembilan,25-44,24.7
+2015,Men,Negeri Sembilan,45-64,23.7
+2015,Men,Negeri Sembilan,65+,15.6
+2011,Men,Pahang,18-24,9.8
+2011,Men,Pahang,25-44,11.8
+2011,Men,Pahang,45-64,15
+2011,Men,Pahang,65+,0
+2015,Men,Pahang,18-24,13.6
+2015,Men,Pahang,25-44,12.6
+2015,Men,Pahang,45-64,23.6
+2015,Men,Pahang,65+,12.3
+2011,Men,Perak,18-24,15.1
+2011,Men,Perak,25-44,16.5
+2011,Men,Perak,45-64,11.7
+2011,Men,Perak,65+,1.9
+2015,Men,Perak,18-24,9.7
+2015,Men,Perak,25-44,17.9
+2015,Men,Perak,45-64,16.3
+2015,Men,Perak,65+,7.9
+2011,Men,Perlis,18-24,11.7
+2011,Men,Perlis,25-44,24.7
+2011,Men,Perlis,45-64,10.3
+2011,Men,Perlis,65+,13.6
+2015,Men,Perlis,18-24,16.5
+2015,Men,Perlis,25-44,20.2
+2015,Men,Perlis,45-64,20.6
+2015,Men,Perlis,65+,7.7
+2011,Men,Pulau Pinang,18-24,13.9
+2011,Men,Pulau Pinang,25-44,12.9
+2011,Men,Pulau Pinang,45-64,11.1
+2011,Men,Pulau Pinang,65+,3.9
+2015,Men,Pulau Pinang,18-24,8.1
+2015,Men,Pulau Pinang,25-44,17.4
+2015,Men,Pulau Pinang,45-64,11.3
+2015,Men,Pulau Pinang,65+,8.3
+2011,Men,Sabah,18-24,7.4
+2011,Men,Sabah,25-44,7.8
+2011,Men,Sabah,45-64,12.4
+2011,Men,Sabah,65+,5.5
+2015,Men,Sabah,18-24,8.1
+2015,Men,Sabah,25-44,11.3
+2015,Men,Sabah,45-64,14.4
+2015,Men,Sabah,65+,5
+2011,Men,Sarawak,18-24,14.4
+2011,Men,Sarawak,25-44,9.4
+2011,Men,Sarawak,45-64,18.7
+2011,Men,Sarawak,65+,4.8
+2015,Men,Sarawak,18-24,15.6
+2015,Men,Sarawak,25-44,16.9
+2015,Men,Sarawak,45-64,17
+2015,Men,Sarawak,65+,4.6
+2011,Men,Selangor,18-24,10.1
+2011,Men,Selangor,25-44,17.5
+2011,Men,Selangor,45-64,14.7
+2011,Men,Selangor,65+,7.1
+2015,Men,Selangor,18-24,12.2
+2015,Men,Selangor,25-44,18.5
+2015,Men,Selangor,45-64,18
+2015,Men,Selangor,65+,6.9
+2011,Men,Terengganu,18-24,7.6
+2011,Men,Terengganu,25-44,13.1
+2011,Men,Terengganu,45-64,9.9
+2011,Men,Terengganu,65+,4.5
+2015,Men,Terengganu,18-24,12.9
+2015,Men,Terengganu,25-44,14.6
+2015,Men,Terengganu,45-64,16
+2015,Men,Terengganu,65+,9.8
+2011,Men,W.P. Kuala Lumpur,18-24,7.7
+2011,Men,W.P. Kuala Lumpur,25-44,14.4
+2011,Men,W.P. Kuala Lumpur,45-64,8.9
+2011,Men,W.P. Kuala Lumpur,65+,12.4
+2015,Men,W.P. Kuala Lumpur,18-24,10.1
+2015,Men,W.P. Kuala Lumpur,25-44,14.2
+2015,Men,W.P. Kuala Lumpur,45-64,15.9
+2015,Men,W.P. Kuala Lumpur,65+,0
+2011,Men,W.P. Putrajaya,18-24,6.1
+2011,Men,W.P. Putrajaya,25-44,13.1
+2011,Men,W.P. Putrajaya,45-64,20.4
+2011,Men,W.P. Putrajaya,65+,0
+2015,Men,W.P. Putrajaya,18-24,18.5
+2015,Men,W.P. Putrajaya,25-44,23.3
+2015,Men,W.P. Putrajaya,45-64,33.3
+2015,Men,W.P. Putrajaya,65+,33.3
